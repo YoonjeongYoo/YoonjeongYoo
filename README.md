@@ -4,11 +4,11 @@
 
 <br><br>
 ### :pencil2: Study Blog
-<hr>
+---
 
 <br><br>
 ### :pushpin: My Status
-<hr>
+---
 
 ![Yoonjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonjeongYoo&show_icons=true&theme=transparent)
 <br><br>
