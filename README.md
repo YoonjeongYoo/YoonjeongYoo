@@ -5,7 +5,10 @@
 <br><br>
 ### :pencil2: Study Blog
 
+<img src="https://img.shields.io/badge/GitBlog-859cd1.svg?style-flat-red?style=flat&logo=airplayvideo&logoColor=E9EFF8&link=(https://yoonjeongyoo.github.io/)" />
+
 <br><br>
+
 ### :pushpin: My Status
 
 ![Yoonjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonjeongYoo&show_icons=true&theme=transparent)
