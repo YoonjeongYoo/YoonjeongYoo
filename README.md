@@ -5,7 +5,9 @@
 <br><br>
 ### :pencil2: Study Blog
 
-<img src="https://img.shields.io/badge/GitBlog-859cd1.svg?style-flat-red?style=flat&logo=airplayvideo&logoColor=E9EFF8&link=(https://yoonjeongyoo.github.io/)" />
+[![GitBlog Badge](https://img.shields.io/badge/GitBlog-859cd1.svg?style-flat-red?style=flat&logo=airplayvideo&logoColor=E9EFF8&link=https://yoonjeongyoo.github.io/)](https://yoonjeongyoo.github.io/)
+<br>
+<img src="https://img.shields.io/badge/GitBlog-859cd1.svg?style-flat-red?style=flat&logo=airplayvideo&logoColor=E9EFF8&link=https://yoonjeongyoo.github.io/" />
 
 <br><br>
 
