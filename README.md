@@ -1,6 +1,6 @@
 <div align=center>	
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&color=BA987C&background=F1EFEB&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcom+to+Yoonjeong's+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&color=BA987C&background=F1EFEB&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+to+Yoonjeong's+Github!)](https://git.io/typing-svg)
 
 <br><br>
 ### :pencil2: Study Blog
