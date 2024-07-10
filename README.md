@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&pause=1000&color=BA987C&background=F1EFEB&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+to+Yoonjeong's+Github!)](https://git.io/typing-svg)
 
 <br><br>
-### :pencil2: Study Blog
+<!-- ### :pencil2: Study Blog
 
-[![GitBlog Badge](https://img.shields.io/badge/GitBlog-859cd1.svg?style-flat-red?style=flat&logo=airplayvideo&logoColor=E9EFF8&link=https://yoonjeongyoo.github.io/)](https://yoonjeongyoo.github.io/)
+[![GitBlog Badge](https://img.shields.io/badge/GitBlog-859cd1.svg?style-flat-red?style=flat&logo=airplayvideo&logoColor=E9EFF8&link=https://yoonjeongyoo.github.io/)](https://yoonjeongyoo.github.io/) 
 
-<br><br>
+<br><br> -->
 
 ### :pushpin: My Status
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
